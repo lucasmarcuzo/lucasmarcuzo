@@ -4,7 +4,7 @@
 
 * ✍🏻 I am a student of the Fatec Guarulhos systems analysis and development course! 👨🏻‍🎓
 
-## 👨🏻‍💻 Github working status and programming languages used:
+## 👨‍💻 Github working status and programming languages used:
 
  <div>
   <a href="https://github.com/lucasmarcuzo">
