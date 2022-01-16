@@ -25,11 +25,11 @@
 <p align=center>
   <div align=center>
   <a href="https://github.com/lucasmarcuzo">
-      <img align="right" width=410 src="https://github-readme-stats.vercel.app/api?username=lucasmarcuzo&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
+      <img align="right" width=405 src="https://github-readme-stats.vercel.app/api?username=lucasmarcuzo&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-       <img align="left" width=410 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcuzo&layout=compact&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
-       <br><br><br><br><br><br><br><br><br>
+       <img align="left" width=405 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcuzo&layout=compact&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
+       <br><br><br><br><br><br><br><br>
       <img src="https://activity-graph.herokuapp.com/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=chartreuse-dark&hide_border=true" width="100%"/>
     </a>
   </div>
