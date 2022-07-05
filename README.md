@@ -87,6 +87,7 @@
    <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
    <img align="center" alt="ApacheTomCat" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
+   <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
   <br>
 </div> 
 
