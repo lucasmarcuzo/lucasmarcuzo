@@ -140,7 +140,7 @@
   <b>🏆 All Trophies</b>
 </h3>
   <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmarcuzo" alt="lucasmarcuzo" /></a>
+    <a href="https://github-profile-trophy.vercel.app/?username=lucasmarcuzo&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=lucasmarcuzo&theme=algolia" alt="lucasmarcuzo" /></a>
   </p>  
 </details>
 
