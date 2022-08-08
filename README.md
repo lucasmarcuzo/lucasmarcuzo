@@ -1,6 +1,6 @@
  <div align="center"> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+👋;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="80">
  </div>
  
@@ -15,7 +15,7 @@
     &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories">[HERE!]</a></br>
     &bull; 👩‍💻 I'm currently learning <b>JAVA and Web Projects.</b></br>
     &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com">lucas.marcuzo@hotmail.com</a></b></br>
-    &bull; ⚡ Hobbies <b>Cooking 🧑🏻‍🍳, Listening to EDM 🎧, Bowling 🎳, Going to the Movies 🎦</b>
+    &bull; ⚡ My favorite hobbies are: <b>Cooking 🧑🏻‍🍳, Listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
 </p>
 
 ##
@@ -152,6 +152,6 @@
 
 ##
 
-<div align="right"> <h3> - Thanks for visiting!✌🏻 </h3> </div> 
+<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/lucasmarcuzo"> </h3> </p>
 
