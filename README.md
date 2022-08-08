@@ -1,10 +1,10 @@
+ <img width="100%" height="50" src="etc/bar-nav.gif"/></br>
+ 
  <div align="center"> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="80">
  </div>
- 
- ##
 
 <h3 align="center">
   <b>🧑🏻‍💻 About me</b>
@@ -18,7 +18,7 @@
     &bull; ⚡ My favorite hobbies are: <b>Cooking 🧑🏻‍🍳, Listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
 </p>
 
-##
+<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
   <b>🤹‍ My main skills</b>
@@ -98,7 +98,7 @@
   <br>
 </div> 
 
-##
+<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
   <b>📱 Connect with me</b>
@@ -121,7 +121,7 @@
   <br>
 </div>
 
-##
+<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
@@ -140,7 +140,7 @@
 </p>
 </details>
 
-##
+<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
   <b>🏆 All Trophies</b>
@@ -150,8 +150,10 @@
   </p>  
 </details>
 
-##
+<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/lucasmarcuzo"> </h3> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/lucasmarcuzo"> </h3> </p></br>
+
+<img width="100%" height="50" src="etc/bar-nav.gif"/></br>
 
