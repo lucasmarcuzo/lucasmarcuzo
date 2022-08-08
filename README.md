@@ -9,9 +9,14 @@
 <h3 align="center">
   <b>🧑🏻‍💻 About me</b>
 </h3>
-<div align="center">
-   &bull; I am a student of the Fatec Guarulhos systems analysis and development course! 👨🏻‍🎓
-</div>
+
+<p align="center">
+    &bull; 👩‍🎓 I'm currently studying at <a href="https://www.fatecguarulhos.edu.br">[FATEC-GRU]</a></br>
+    &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories">[HERE!]</a></br>
+    &bull; 👩‍💻 I'm currently learning <b>JAVA and Web Projects.</b></br>
+    &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com">lucas.marcuzo@hotmail.com</a></b></br>
+    &bull; ⚡ Hobbies <b>Cooking 🧑🏻‍🍳, Listening to EDM 🎧, Bowling 🎳, Going to the Movies 🎦</b>
+</p>
 
 ##
 
