@@ -1,10 +1,12 @@
- <img width="100%" height="50" src="etc/bar-nav.gif"/></br>
+ <img width="100%" height="50" src="etc/bar-nav.gif"/>
  
  <div align="center"> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="80">
  </div>
+ 
+ <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
   <b>🧑🏻‍💻 About me</b>
