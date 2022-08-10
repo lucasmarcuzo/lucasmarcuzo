@@ -9,16 +9,19 @@
  <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
-  <b>🧑🏻‍💻 About me</b>
+ <b>🧑🏻‍💻 About me</b>
 </h3>
 
-<p align="center">
-    &bull; 👩‍🎓 I'm currently studying at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
-    &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br>
-    &bull; 👩‍💻 I'm currently learning <b>JAVA and Web Projects.</b></br>
-    &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br>
-    &bull; ⚡ My favorite hobbies are: <b>Cooking 🧑🏻‍🍳, Listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
-</p>
+<h4>
+ <p align="center">
+     &bull; 👩‍🎓 I'm currently studying at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
+     &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br>
+     &bull; 👩‍💻 I'm currently learning <b>JAVA and Web Projects.</b></br>
+     &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br>
+     &bull; ⚡ My favorites hobbies are: <b>cooking 🧑🏻‍🍳, listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
+ </p>
+</h4>
+
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
