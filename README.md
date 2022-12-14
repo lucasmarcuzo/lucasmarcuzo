@@ -145,7 +145,7 @@
 <p align=center>
   <div align=center>
   <a href="https://github.com/lucasmarcuzo">
-      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
+      <img align="right" width=430 src="https://github-readme-stats.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
     </a>
       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true" />
   </div>
