@@ -145,9 +145,9 @@
 <p align=center>
 
   <a href="https://github.com/lucasmarcuzo">
-      <img align="right" width=400 height=250 src="https://github-readme-stats.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
+      <img align="right" width=40% src="https://github-readme-stats.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
     </a>
-      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
+      <img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
 
 </p>
 </details>
