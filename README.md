@@ -130,7 +130,7 @@
     </a>  
     <a href="https://open.spotify.com/user/12186237186" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Lucas-Marcuzo" height="30" width="40" />
     </a>
-    <a href="https://web.dio.me/users/lucas_marcuzo" target="_blank"><img align="center" src="https://web.dio.me/favicon/favicon-32x32.png" alt="DIO-Lucas-Marcuzo" height="35" width="37" />
+    <a href="https://web.dio.me/users/lucas_marcuzo" target="_blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO-Lucas-Marcuzo" height="35" width="37" />
     </a>
     <a href="https://www.beecrowd.com.br/judge/pt/profile/510115" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Lucas-Marcuzo" height="40" width="40" />
     </a>
