@@ -3,13 +3,13 @@
  <div align="center"> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
-    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
  </div>
  
  <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
- <b>🧑🏻‍💻 About me</b>
+ <b>🧑🏻‍💻 About me </b>
 </h3>
 
 <h4>
@@ -148,7 +148,7 @@
       <img align="right" width=420 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
     </a>
       <img align="left" width=350 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
-    <br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br>
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
 </p>
 </details>
