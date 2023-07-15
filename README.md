@@ -14,9 +14,9 @@
 
 <h4>
  <p align="center">
-     &bull; 👩‍🎓 I'm currently studying at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
      &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br>
      &bull; 👩‍💻 I'm currently learning <b>JAVA and Web Projects.</b></br>
+     &bull; 👨🏻‍🎓 I graduated as a systems analyst at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
      &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br>
      &bull; ⚡ My favorites hobbies are: <b>cooking 🧑🏻‍🍳, listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
  </p>
@@ -111,6 +111,7 @@
    <img align="center" alt="ApacheTomCat" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
    <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
    <img align="center" alt="Hibernate" height="40" width="40" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
+   <img align="center" alt="JasperReports" height="40" width="40" src="https://i.postimg.cc/9XvXftkk/jaspersoft-studio-icon.png">
   <br>
 </div> 
 
