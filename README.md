@@ -114,6 +114,7 @@
    <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
    <img align="center" alt="Hibernate" height="40" width="40" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
    <img align="center" alt="Jasper Reports" height="40" width="40" src="https://i.postimg.cc/9XvXftkk/jaspersoft-studio-icon.png">
+   <img align="center" alt="Postman" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
   <br>
 </div> 
 
