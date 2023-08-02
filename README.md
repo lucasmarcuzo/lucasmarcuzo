@@ -75,8 +75,6 @@
 </h4>
 <div style="display: inline_block" align="center">
   <img align="center" alt=".Net" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"> 
-  <img align="center" alt="Vue.js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> 
   <img align="center" alt="Spring Boot" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> 
   <br>
 </div> 
