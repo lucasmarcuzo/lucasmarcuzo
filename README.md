@@ -36,7 +36,9 @@
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
+  <img align="center" alt="Kotlin" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
+  <img align="center" alt="Node.JS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="R" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> 
   <br>
 </div> 
 
@@ -89,6 +91,7 @@
    <img align="center" alt="Intellij" height="40" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"> 
    <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> 
    <img align="center" alt="Android Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
+   <img align="center" alt="R Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> 
   <br>
 </div> 
 
@@ -97,22 +100,32 @@
 </h4>
 <div style="display: inline_block" align="center">
   <img align="center" alt="JUnit 5" height="40" width="50" src="https://blog.stylingandroid.com/wp-content/uploads/2017/02/junit5-logo-150x150.png"> 
+  <img align="center" alt="Postman" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
   <br>
 </div> 
 
 <h4 align="center">
-  <b> 🛠️<i>Others:</i></b>
+  <b> 📊 <i>Data Analysis:</i></b>
+</h4>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Excel" height="40" width="50" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"> 
+  <img align="center" alt="Power Query" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg"> 
+  <img align="center" alt="Power BI" height="40" width="45" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> 
+  <br>
+</div> 
+
+<h4 align="center">
+  <b> 🛠️ <i>Others:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
    <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
    <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
-   <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Apache Tomcat" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
    <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
    <img align="center" alt="Hibernate" height="40" width="40" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
    <img align="center" alt="Jasper Reports" height="40" width="40" src="https://i.postimg.cc/9XvXftkk/jaspersoft-studio-icon.png">
-   <img align="center" alt="Postman" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
+   <img align="center" alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <br>
 </div> 
 
