@@ -14,6 +14,7 @@
 
 <h4>
  <p align="center">
+     &bull; 🧠 INFJ - (Introverted, Intuitive, Feeling and Judging)</br>
      &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br>
      &bull; 👩‍💻 I'm currently learning <b>JAVA and Web Projects.</b></br>
      &bull; 👨🏻‍🎓 I graduated as a systems analyst at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
