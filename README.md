@@ -83,20 +83,6 @@
 </div> 
 
 <h4 align="center">
-  <b> 🖥️ <i>IDEs:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-   <img align="center" alt="Visual Studio Code" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> 
-   <img align="center" alt="Visual Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"> 
-   <img align="center" alt="Eclipse" height="40" width="50" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"> 
-   <img align="center" alt="Intellij" height="40" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"> 
-   <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> 
-   <img align="center" alt="Android Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
-   <img align="center" alt="R Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> 
-  <br>
-</div> 
-
-<h4 align="center">
   <b> 🪳 <i>Tests:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
@@ -112,6 +98,20 @@
   <img align="center" alt="Excel" height="40" width="50" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"> 
   <img align="center" alt="Power Query" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg"> 
   <img align="center" alt="Power BI" height="40" width="45" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> 
+  <br>
+</div> 
+
+<h4 align="center">
+  <b> 🖥️ <i>IDEs:</i></b>
+</h4>
+<div style="display: inline_block" align="center">
+   <img align="center" alt="Visual Studio Code" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> 
+   <img align="center" alt="Visual Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"> 
+   <img align="center" alt="Eclipse" height="40" width="50" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"> 
+   <img align="center" alt="Intellij" height="40" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"> 
+   <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> 
+   <img align="center" alt="Android Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
+   <img align="center" alt="R Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> 
   <br>
 </div> 
 
