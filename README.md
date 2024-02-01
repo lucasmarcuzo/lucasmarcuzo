@@ -98,6 +98,7 @@
   <img align="center" alt="Excel" height="40" width="50" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"> 
   <img align="center" alt="Power Query" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg"> 
   <img align="center" alt="Power BI" height="40" width="45" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> 
+  <img align="center" alt="Power Apps" height="40" width="45" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg"> 
   <br>
 </div> 
 
