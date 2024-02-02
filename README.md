@@ -139,11 +139,11 @@
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
 </h3>
 <p align=center>
-  <img width=230 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
+  <img width=240 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
 
-  <img width=280 alt="lucasmarcuzo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
+  <img width=290 alt="lucasmarcuzo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
 
-  <img width=280 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
+  <img width=290 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
 </p>
 
 <br>
