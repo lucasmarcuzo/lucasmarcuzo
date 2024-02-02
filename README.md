@@ -1,11 +1,9 @@
  <img width="100%" height="50" src="etc/bar-nav.gif"/>
  
- <div align="center"> 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
- </div>
- 
+ <img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
+ <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
+ <img align="right" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
+
  <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
