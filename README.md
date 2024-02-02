@@ -6,7 +6,7 @@
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
  </div>
 
- <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+<a align="left" href="#"><img width="100%" src="etc/bar-blue.gif" /></a> 
 
 <h3 align="center">
  <b>🧑🏻‍💻 About me </b>
@@ -24,7 +24,7 @@
 </h4>
 
 
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+<a align="left" href="#"><img width="100%" src="etc/bar-blue.gif" /></a>
 
 <h3 align="center">
   <b>🤹‍ My main skills </b>
@@ -120,20 +120,18 @@
   <b> 🛠️ <i>Others:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
-   <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
+   <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
    <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
-   <img align="center" alt="Apache Tomcat" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
+   <img align="center" alt="Apache Tomcat" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
    <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
    <img align="center" alt="Hibernate" height="40" width="40" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
    <img align="center" alt="Jasper Reports" height="40" width="40" src="https://i.postimg.cc/9XvXftkk/jaspersoft-studio-icon.png">
-   <img align="center" alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <br>
+   <img align="center" alt="Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div> 
 
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-
-</details>
+  <br>
+<a align="left" href="#"><img width="100%" src="etc/bar-blue.gif" /></a>
 
 <h3 align="center">
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
@@ -146,7 +144,7 @@
   <img width=840 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD"/>
 </p>
 
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+<a align="left" href="#"><img width="100%" src="etc/bar-blue.gif" /></a>
 
 <h3 align="center">
   <b>🏆 All Trophies</b>
@@ -157,7 +155,7 @@
     </a>
  </p>  
 
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+<a align="left" href="#"><img width="100%" src="etc/bar-blue.gif" /></a>
 
 <h3 align="center">
   <b>📱 Connect with me</b>
@@ -172,7 +170,7 @@
   <a href="https://web.dio.me/users/lucas_marcuzo" target="blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO: Lucas Marcuzo" height="48" width="48"/></a>
 </p>
 
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+<a align="left" href="#"><img width="100%" src="etc/bar-blue.gif" /></a>
 
 <div align="center"> <h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> <b>Thanks for visiting! </b> <img src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif" width="28" alt="hi"> </h3> </p> 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/lucasmarcuzo"> </h3> 
