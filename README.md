@@ -143,7 +143,7 @@
   <img width=295 src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
   <img width=295 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
   <br>
-  <img width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD"/>
+  <img width=900 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD"/>
 </p>
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
