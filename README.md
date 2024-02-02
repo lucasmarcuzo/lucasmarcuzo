@@ -1,8 +1,10 @@
  <img width="100%" height="50" src="etc/bar-nav.gif"/>
- 
- <img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
- <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
- <img align="right" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
+
+<div align="center">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Lucas+Marcuzo...;+Nice+to+meet+you!&center=true&size=30">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
+ </div>
 
  <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
@@ -136,13 +138,12 @@
 <h3 align="center">
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
 </h3>
-<div align=center>
   <img width=250 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
 
   <img width=310 alt="lucasmarcuzo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
 
   <img width=310 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
-</div>
+
 <br>
 <p align=center>
   <img width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD"/>
