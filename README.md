@@ -139,18 +139,16 @@
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
 </h3>
 <p align=center>
-  <img align="left" width=300 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
+  <img align="center" width=280 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
 
-  <img align="left" width=400 alt="lucasmarcuzo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
+  <img align="center" width=350 alt="lucasmarcuzo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
 
-  <img align="left" width=400 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
+  <img align="center" width=350 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
 </p>
-
+<br>
 <p align=center>
-  <img align="right" width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" />
+  <img width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD"/>
 </p>
-
-
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
