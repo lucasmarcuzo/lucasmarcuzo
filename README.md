@@ -134,29 +134,6 @@
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <h3 align="center">
-  <b>📱 Connect with me</b>
-</h3>
-<div style="display: inline_block" align="center">
-    <a href="https://github.com/lucasmarcuzo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-lucasmarcuzo" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/lucasmarcuzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-lucasmarcuzo" height="30" width="40" />
-    </a>  
-    <a href="https://fb.com/lucasmarcuzzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-lucasmarcuzzo" height="30" width="40" />
-    </a>  
-    <a href="https://twitter.com/lucassolace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter-lucassolace" height="30" width="40" />
-    </a>  
-    <a href="https://open.spotify.com/user/12186237186" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Lucas-Marcuzo" height="30" width="40" />
-    </a>
-    <a href="https://web.dio.me/users/lucas_marcuzo" target="_blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO-Lucas-Marcuzo" height="35" width="37" />
-    </a>
-    <a href="https://www.beecrowd.com.br/judge/pt/profile/510115" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Lucas-Marcuzo" height="40" width="40" />
-    </a>
-  <br>
-</div>
-
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-
-<h3 align="center">
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
 </h3>
 <p align=center>
@@ -182,8 +159,23 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
-<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/lucasmarcuzo"> </h3> </p></br>
+<h3 align="center">
+  <b>📱 Connect with me</b>
+</h3>
+<p align="center">
+  <a href="https://github.com/lucasmarcuzo" target="blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub: Lucas Marcuzo"/></a>
+  <a href="https://linkedin.com/in/lucasmarcuzo" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn: Lucas Marcuzo"/></a>
+  <a href="https://wa.me/5511939423376"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp: Lucas Marcuzo"/></a>
+  <a href="https://fb.com/lucasmarcuzzo" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook: Lucas Marcuzo"/></a>
+  <a href="https://open.spotify.com/user/12186237186" target="blank"><img src="https://img.icons8.com/fluent/48/000000/spotify.png" alt="Spotify: Lucas Marcuzo"/></a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/510115" target="blank"> <img src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd: Lucas Marcuzo"/></a>
+  <a href="https://web.dio.me/users/lucas_marcuzo" target="blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO: Lucas Marcuzo" height="48" width="48"/></a>
+</p>
+
+<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+
+<div align="center"> <h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> <b>Thanks for visiting! </b> <img src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif" width="28" alt="hi"> </h3> </p> 
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/lucasmarcuzo"> </h3> </div></br>
 
 <img width="100%" height="50" src="etc/bar-nav.gif"/></br>
 
