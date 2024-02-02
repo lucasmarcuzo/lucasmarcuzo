@@ -138,13 +138,13 @@
 <h3 align="center">
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
 </h3>
-<p align=center>
+<div align=center>
   <img width=250 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
 
   <img width=310 alt="lucasmarcuzo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
 
   <img width=310 src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmarcuzo&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
-</p>
+</div>
 <br>
 <p align=center>
   <img width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmarcuzo&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD"/>
