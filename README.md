@@ -15,10 +15,10 @@
 <h4>
  <p align="center">
      &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br>
-     &bull; 👩‍💻 I'm currently learning <b>Pythom, Power Bi, Business Intelligence and Figma.</b></br>
      &bull; 👨🏻‍🎓 I graduated as a systems analyst at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
      &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br>
      &bull; 🧠 INFJ - (Introverted, Intuitive, Feeling and Judging)</br>
+     &bull; 👩‍💻 I'm currently learning <b>Python, Power Bi, Business Intelligence and Figma.</b></br>
      &bull; ⚡ My favorites hobbies are: <b>cooking 🧑🏻‍🍳, listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
  </p>
 </h4>
