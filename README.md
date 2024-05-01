@@ -15,7 +15,7 @@
 <h4>
  <p align="center">
      &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br>
-     &bull; 👩‍💻 I'm currently learning <b>JAVA and Web Projects.</b></br>
+     &bull; 👩‍💻 I'm currently learning <b>Pythom, Power Bi, Business Intelligence and Figma.</b></br>
      &bull; 👨🏻‍🎓 I graduated as a systems analyst at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
      &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br>
      &bull; 🧠 INFJ - (Introverted, Intuitive, Feeling and Judging)</br>
@@ -39,7 +39,7 @@
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Kotlin" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
   <img align="center" alt="Node.JS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="R" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> 
+  <img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
   <br>
 </div> 
 
@@ -92,6 +92,24 @@
 </div> 
 
 <h4 align="center">
+  <b> 🗄️ <i>Servers:</i></b>
+</h4>
+<div style="display: inline_block" align="center">
+   <img align="center" alt="Apache Tomcat" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
+   <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
+  <br>
+</div>
+
+<h4 align="center">
+  <b> 🖌️ <i>UI/UX Design Tools:</i></b>
+</h4>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Excel" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> 
+  <img align="center" alt="Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <br>
+</div> 
+
+<h4 align="center">
   <b> 📊 <i>Data Analysis:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
@@ -112,7 +130,6 @@
    <img align="center" alt="Intellij" height="40" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"> 
    <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> 
    <img align="center" alt="Android Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
-   <img align="center" alt="R Studio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> 
   <br>
 </div> 
 
@@ -123,14 +140,11 @@
    <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
    <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
-   <img align="center" alt="Apache Tomcat" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
-   <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
    <img align="center" alt="Hibernate" height="40" width="40" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
    <img align="center" alt="Jasper Reports" height="40" width="40" src="https://i.postimg.cc/9XvXftkk/jaspersoft-studio-icon.png">
-   <img align="center" alt="Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <br>
 </div> 
 
-  <br>
 <a align="left" href="#"><img width="100%" src="etc/bar-blue.gif" /></a>
 
 <h3 align="center">
