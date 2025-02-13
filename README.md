@@ -14,11 +14,12 @@
 
 <h4>
  <p align="center">
-     &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br>
-     &bull; 👨🏻‍🎓 I graduated as a systems analyst at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br>
-     &bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br>
-     &bull; 🧠 INFJ - (Introverted, Intuitive, Feeling and Judging)</br>
-     &bull; 👩‍💻 I'm currently learning <b>Python, Power Bi, Business Intelligence and Figma.</b></br>
+     &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br></br>
+     &bull; 👨🏻‍🎓 I graduated as a systems analyst at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br></br>
+     <!--&bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br> -->
+     &bull; 📫 How to contact me in <b><a href="https://www.lucasmarcuzo.me" target="_blank">MY PORTFOLIO</a></b><br></br>
+     &bull; 🧠 INFJ - (Introverted, Intuitive, Feeling and Judging)</br></br>
+     &bull; 👩‍💻 I'm currently learning <b>Python, Power Bi, Business Intelligence and Figma.</b></br></br>
      &bull; ⚡ My favorites hobbies are: <b>cooking 🧑🏻‍🍳, listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
  </p>
 </h4>
@@ -96,7 +97,8 @@
 </h4>
 <div style="display: inline_block" align="center">
    <img align="center" alt="Apache Tomcat" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
-   <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
+   <img align="center" alt="Wildfly" height="40" width="40" src="https://wildfly-security.github.io/wildfly-elytron/assets/images/icon-wildfly.png"> 
+   <img align="center" alt="Uvicorn" height="40" width="40" src="https://www.uvicorn.org/uvicorn.png">
   <br>
 </div>
 
@@ -104,7 +106,7 @@
   <b> 🖌️ <i>UI/UX Design Tools:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Excel" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> 
+  <img align="center" alt="Figma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> 
   <img align="center" alt="Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <br>
 </div> 
@@ -140,8 +142,9 @@
    <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
    <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
-   <img align="center" alt="Hibernate" height="40" width="40" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
    <img align="center" alt="Jasper Reports" height="40" width="40" src="https://i.postimg.cc/9XvXftkk/jaspersoft-studio-icon.png">
+   <img align="center" alt="FastAPI" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+   
   <br>
 </div> 
 
