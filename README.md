@@ -17,7 +17,7 @@
      &bull; 🖥️ All my projects are available at <a href="https://github.com/lucasmarcuzo?tab=repositories" target="_blank">[HERE!]</a></br></br>
      &bull; 👨🏻‍🎓 I graduated as a systems analyst at <a href="https://www.fatecguarulhos.edu.br" target="_blank">[FATEC-GRU]</a></br></br>
      <!--&bull; 📫 How to contact me <b><a href="mailto:lucas.marcuzo@hotmail.com" target="_blank"">lucas.marcuzo@hotmail.com</a></b></br> -->
-     &bull; 📫 How to contact me in <b><a href="https://www.lucasmarcuzo.me" target="_blank">MY PORTFOLIO</a></b><br></br>
+     &bull; 📫 How to contact me in <b><a href="https://www.lucasmarcuzo.com" target="_blank">MY PORTFOLIO</a></b><br></br>
      &bull; 🧠 INFJ - (Introverted, Intuitive, Feeling and Judging)</br></br>
      &bull; 👩‍💻 I'm currently learning <b>Python, Power Bi, Business Intelligence and Figma.</b></br></br>
      &bull; ⚡ My favorites hobbies are: <b>cooking 🧑🏻‍🍳, listening to EDM 🎧, go bowling 🎳 and go to the movies 🎦</b>
@@ -123,6 +123,14 @@
 </div> 
 
 <h4 align="center">
+  <b> ☁️ <i>Cloud Services:</i></b>
+</h4>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Google Cloud" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"> 
+ <br>
+</div> 
+
+<h4 align="center">
   <b> 🖥️ <i>IDEs:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
@@ -144,7 +152,7 @@
    <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
    <img align="center" alt="Jasper Reports" height="40" width="40" src="https://i.postimg.cc/9XvXftkk/jaspersoft-studio-icon.png">
    <img align="center" alt="FastAPI" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
-   
+   <img align="center" alt="Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <br>
 </div> 
 
